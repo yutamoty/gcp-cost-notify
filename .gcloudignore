@@ -1,0 +1,16 @@
+.git/
+.gitignore
+.gcloudignore
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.tfvars
+.env
+*.env.*
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+AGENTS.md
+README.md
